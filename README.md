@@ -23,8 +23,8 @@ The UI is made entirely with Jetpack Compose, and it features a variety of diffe
 <img src="night_thunder.png" alt="Thunder Night" width="270" height="480"/>
 
 ### Animations
-[Clear Sky](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/ClearSky.kt) - Sun and Stars on Clear days or night using alpha transitions
-[Clouds](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/Clouds.kt) - Variable animated clouds using x offset transitions
-[Lightning](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/Lightning.kt) - Flash lightning using scale and alpha transitions
-[Rain](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/Rain.kt) - Rain animations using y offset transitions
-[Snow](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/SNow.kt) - Snow animations using y and x offset transitions
+* [Clear Sky](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/ClearSky.kt) - Sun and Stars on Clear days or night using alpha transitions
+* [Clouds](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/Clouds.kt) - Variable animated clouds using x offset transitions
+* [Lightning](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/Lightning.kt) - Flash lightning using scale and alpha transitions
+* [Rain](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/Rain.kt) - Rain animations using y offset transitions
+* [Snow](/app/src/main/java/com/bracketcove/wiseweather/ui/animations/SNow.kt) - Snow animations using y and x offset transitions
